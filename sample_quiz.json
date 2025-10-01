@@ -1,0 +1,78 @@
+{
+  "title": "CCST Networking Certification – Practice Quiz (5 Questions)",
+  "subtitle": "Sample: Basic Concepts",
+  "questions": [
+    {
+      "text": "Which OSI layer is responsible for routing?",
+      "options": {
+        "A": "Physical",
+        "B": "Network",
+        "C": "Transport",
+        "D": "Application"
+      }
+    },
+    {
+      "text": "Which protocol translates domain names to IP addresses?",
+      "options": {
+        "A": "HTTP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "SSH"
+      }
+    },
+    {
+      "text": "Which device operates primarily at Layer 2 of the OSI model?",
+      "options": {
+        "A": "Router",
+        "B": "Switch",
+        "C": "Firewall",
+        "D": "Server"
+      }
+    },
+    {
+      "text": "Which IP version uses 128-bit addresses?",
+      "options": {
+        "A": "IPv4",
+        "B": "IPv6",
+        "C": "IPX",
+        "D": "ARP"
+      }
+    },
+    {
+      "text": "Which transport protocol provides reliable, connection‑oriented delivery?",
+      "options": {
+        "A": "ICMP",
+        "B": "UDP",
+        "C": "TCP",
+        "D": "ARP"
+      }
+    }
+  ],
+  "solution_table": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "Routing happens at the OSI Network (Layer 3)."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "DNS resolves domain names to IP addresses."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "Switches primarily operate at Layer 2 (Data Link)."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "IPv6 uses 128‑bit addresses."
+    },
+    {
+      "number": 5,
+      "answer": "C",
+      "explanation": "TCP is reliable and connection‑oriented."
+    }
+  ]
+}
